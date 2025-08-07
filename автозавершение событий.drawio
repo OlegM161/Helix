@@ -185,7 +185,7 @@
           <mxGeometry x="560" y="750" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-62" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Заголовок должен быть без &quot;Розница&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="480" y="850" width="270" height="60" as="geometry" />
+          <mxGeometry x="520" y="880" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-63" target="RVMOf5J3b26BWDi6N47h-66">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry x="1480" y="760" width="416" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-76" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;НеОтправлятьПисьмоПриАвтозавершении_Розница (тип: Булево)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="760" y="850" width="340" height="60" as="geometry" />
+          <mxGeometry x="1099" y="870" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-60">
           <mxGeometry relative="1" as="geometry" />
@@ -214,8 +214,13 @@
         <mxCell id="RVMOf5J3b26BWDi6N47h-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.381;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.599;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-76">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RVMOf5J3b26BWDi6N47h-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="830" />
+              <mxPoint x="1230" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
