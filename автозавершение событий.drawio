@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.0.7">
   <diagram name="Страница — 1" id="n4viQvfi7PCmna_6CCVI">
-    <mxGraphModel dx="2756" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2415" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,11 @@
         <mxCell id="RVMOf5J3b26BWDi6N47h-31" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Внести изменения&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="410" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-32" target="RVMOf5J3b26BWDi6N47h-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-32" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;&amp;nbsp;ФормаЭлементаУпр спр HLX_ПодгруппыСобытий&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="510" width="240" height="50" as="geometry" />
+          <mxGeometry x="340" y="510" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-37" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Новая вкладка в справочнике &quot;Информирование о Событиях&quot; (после вкладки &quot;Настройки&quot;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-30" y="530" width="280" height="60" as="geometry" />
@@ -111,7 +114,7 @@
         <mxCell id="RVMOf5J3b26BWDi6N47h-39" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Убрать на вкладке &quot;Настройки&quot; - ГруппаАвтозавершить&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-30" y="710" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-40" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;&amp;nbsp;заголовок &quot;Информирование о Событиях для КК&quot;.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-40" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;&amp;nbsp;Заголовок &quot;Информирование о Событиях для КК&quot;.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="254" y="710" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-41" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Отображение: Сильное выделение&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
@@ -153,6 +156,63 @@
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-31" target="RVMOf5J3b26BWDi6N47h-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-56" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ГруппаАвтозавершать_Розница&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-58" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Заголовок &quot;Информирование о Событиях для Розницы&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="950" y="190" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-59" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Отображение: Сильное выделение&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="950" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-60" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;В группу добавить следующие реквизиты&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-62" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Заголовок должен быть без &quot;Розница&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="395" width="339" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-63" target="RVMOf5J3b26BWDi6N47h-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-63" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;АвтозавершатьСобытия_Розница (тип: Булево).&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="480" width="339" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-64" target="RVMOf5J3b26BWDi6N47h-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-64" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ШаблонПисьмаПриАвтозавершении_Розница (тип: СправочникСсылка.HLX_ШаблоныУведомлений)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="570" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-66" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Подсказка: Переводить события автоматически в состояние &quot;Завершено&quot; при создании и отправлять об этом письмо контрагенту по шаблону.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="470" width="820" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-67" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Подсказка: Шаблон письма контрагенту об автозавершенных событиях.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="570" width="416" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
