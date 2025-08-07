@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.0.7">
   <diagram name="Страница — 1" id="n4viQvfi7PCmna_6CCVI">
-    <mxGraphModel dx="2415" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3077" dy="2386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RVMOf5J3b26BWDi6N47h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-1" target="RVMOf5J3b26BWDi6N47h-3">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-1" target="RVMOf5J3b26BWDi6N47h-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.017;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-1" target="RVMOf5J3b26BWDi6N47h-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-1" target="RVMOf5J3b26BWDi6N47h-26">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-1" target="RVMOf5J3b26BWDi6N47h-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-1" target="RVMOf5J3b26BWDi6N47h-31">
@@ -20,31 +20,34 @@
           <mxGeometry x="360" y="300" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Включает: автоинформирование&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="10" width="160" height="60" as="geometry" />
+          <mxGeometry x="660" y="-40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-3" target="RVMOf5J3b26BWDi6N47h-4">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-3" target="RVMOf5J3b26BWDi6N47h-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-3" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Контрагенты&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-4" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Имеющие вид:&amp;nbsp;&lt;/span&gt;вид к/а: признак Сеть – холдинг Хеликс&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="130" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="-30" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-8">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.625;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-9">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.167;exitY=0;exitDx=0;exitDy=0;curved=1;exitPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-10">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-7" target="RVMOf5J3b26BWDi6N47h-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-7" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Места забора не требуется включать в доработку&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-8" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;к/а Медзум (все места забора)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-9" target="RVMOf5J3b26BWDi6N47h-13">
           <mxGeometry relative="1" as="geometry" />
@@ -53,37 +56,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-9" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;к/а Хеликс 77&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-10" target="RVMOf5J3b26BWDi6N47h-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-10" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&amp;nbsp;к/а Хеликс-Мед&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-11" target="RVMOf5J3b26BWDi6N47h-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-11" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&amp;nbsp;к/а ООО &quot;НПФ&quot;ХЕЛИКС&quot;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-13" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Мобильная служба Москва (Хеликс 77)&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-14" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Мобильная служба С-Пб (Хеликс 77)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-21" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Мобильная служба Екатеринбург&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-24" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Мобильная служба Новосибирск&amp;nbsp;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-26" target="RVMOf5J3b26BWDi6N47h-2">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-26" target="RVMOf5J3b26BWDi6N47h-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-26" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Подгруппа «не прошел сортировку»&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-31" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Внести изменения&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="410" width="210" height="60" as="geometry" />
@@ -95,54 +98,54 @@
           <mxGeometry x="340" y="510" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-37" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Новая вкладка в справочнике &quot;Информирование о Событиях&quot; (после вкладки &quot;Настройки&quot;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="530" width="280" height="60" as="geometry" />
+          <mxGeometry x="-260" y="360" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-38" target="RVMOf5J3b26BWDi6N47h-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.373;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-38" target="RVMOf5J3b26BWDi6N47h-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="710" as="targetPoint" />
+            <mxPoint x="-80" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-38" target="RVMOf5J3b26BWDi6N47h-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-38" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ГруппаАвтозавершить&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="330" y="590" width="220" height="60" as="geometry" />
+          <mxGeometry x="-210" y="630" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-39" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Убрать на вкладке &quot;Настройки&quot; - ГруппаАвтозавершить&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="710" width="250" height="60" as="geometry" />
+          <mxGeometry x="-570" y="750" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-40" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;&amp;nbsp;Заголовок &quot;Информирование о Событиях для КК&quot;.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="254" y="710" width="156" height="60" as="geometry" />
+          <mxGeometry x="-286" y="750" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-41" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Отображение: Сильное выделение&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.384;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-42" target="RVMOf5J3b26BWDi6N47h-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-42" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Перенести следует все существующие группы с их подсказками при наведении.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="710" width="320" height="60" as="geometry" />
+          <mxGeometry x="40" y="750" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-43" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ГруппаАвтозавершитьУровень1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="810" width="220" height="60" as="geometry" />
+          <mxGeometry x="-50" y="850" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-44" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ГруппаОтправлятьПисьмаКонтрагентам&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="590" y="890" width="300" height="60" as="geometry" />
+          <mxGeometry x="50" y="930" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-45" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Группа4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="750" y="810" width="220" height="60" as="geometry" />
+          <mxGeometry x="210" y="850" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-32" target="RVMOf5J3b26BWDi6N47h-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="519" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.541;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-32" target="RVMOf5J3b26BWDi6N47h-38">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.541;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.381;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-32" target="RVMOf5J3b26BWDi6N47h-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="639" y="635" as="sourcePoint" />
+            <mxPoint x="-90" y="599.9999999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-38" target="RVMOf5J3b26BWDi6N47h-42">
@@ -157,26 +160,20 @@
         <mxCell id="RVMOf5J3b26BWDi6N47h-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-31" target="RVMOf5J3b26BWDi6N47h-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-60">
+        <mxCell id="RVMOf5J3b26BWDi6N47h-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-56" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ГруппаАвтозавершать_Розница&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="650" y="360" width="270" height="60" as="geometry" />
+          <mxGeometry x="530" y="630" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-58" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Заголовок &quot;Информирование о Событиях для Розницы&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="950" y="190" width="170" height="60" as="geometry" />
+          <mxGeometry x="900" y="310" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-59" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Отображение: Сильное выделение&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="950" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-62">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="720" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-63">
           <mxGeometry relative="1" as="geometry" />
@@ -185,34 +182,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-60" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;В группу добавить следующие реквизиты&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="750" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-62" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Заголовок должен быть без &quot;Розница&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="395" width="339" height="60" as="geometry" />
+          <mxGeometry x="480" y="850" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-63" target="RVMOf5J3b26BWDi6N47h-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-63" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;АвтозавершатьСобытия_Розница (тип: Булево).&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="480" width="339" height="60" as="geometry" />
+          <mxGeometry x="1100" y="670" width="339" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-64" target="RVMOf5J3b26BWDi6N47h-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-64" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;ШаблонПисьмаПриАвтозавершении_Розница (тип: СправочникСсылка.HLX_ШаблоныУведомлений)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="570" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RVMOf5J3b26BWDi6N47h-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="760" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-66" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Подсказка: Переводить события автоматически в состояние &quot;Завершено&quot; при создании и отправлять об этом письмо контрагенту по шаблону.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="470" width="820" height="60" as="geometry" />
+          <mxGeometry x="1480" y="670" width="820" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVMOf5J3b26BWDi6N47h-67" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Подсказка: Шаблон письма контрагенту об автозавершенных событиях.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="570" width="416" height="60" as="geometry" />
+          <mxGeometry x="1480" y="760" width="416" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-76" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: left;&quot;&gt;НеОтправлятьПисьмоПриАвтозавершении_Розница (тип: Булево)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="850" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-56" target="RVMOf5J3b26BWDi6N47h-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.381;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVMOf5J3b26BWDi6N47h-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.384;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.599;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RVMOf5J3b26BWDi6N47h-60" target="RVMOf5J3b26BWDi6N47h-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
